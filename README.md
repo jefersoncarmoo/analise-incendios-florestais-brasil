@@ -1,6 +1,6 @@
 # 🔥 Análise Incêndios Florestais no Brasil (1998-2017)
 
-Este projeto foi  elaborado com foco em estudo e apresenta análise exploratória e visual dos dados sobre incêndios florestais no Brasil entre os anos de 1998 e 2017, utilizando Python e susas bibliotecas de manipulação e visualização de dados.
+Os incêndios florestais representam uma das principais ameaças aos ecossistemas brasileiros, causando perdas significativas à biodiversidade, à qualidade do ar e ao equilíbrio climático. Este projeto foi elaborado com foco em estudo e visa analisar dados históricos de focos de incêndio no Brasil entre 1998 e 2017, com o objetivo de identificar padrões temporais e espaciais que possam auxiliar na formulação de políticas públicas e estratégias de prevenção.
 
 ## 🔍 Objetivo
 
