@@ -1,15 +1,20 @@
 # 🔥 Análise Incêndios Florestais no Brasil
 
-Este projeto foi  elaborado com foco em estudo e apresenta análise exploratória e visual de dados das vendas de jogos eletrônicos, utilizando Python. A base de dados utilizada possui informações como nome do jogo, gênero, plataforma, ano de lançamento e vendas por região.
+Este projeto foi  elaborado com foco em estudo e apresenta análise exploratória e visual dos dados sobre incêndios florestais no Brasil entre os anos de 1998 e 2017, utilizando Python e susas bibliotecas de manipulação e visualização de dados.
 
 ## 🔍 Objetivo
 
-Identificar os padrões de mercado para o segmento de jogos e responder aos questionamentos:
+Através das análises, identificar algumas questões:
+- Evolução do número de focos de incêndios no país;
+- Quais anos tiveram os maiores números de incêndios;
+- Identificar sazonalidades nos incêndios. Se existe alguma relação entre a estação do ano com o número de ocorrências;
+- Estados com mais casos de queimadas;
 
-- Quais são os jogos mais vendidos globalmente?
-- Quais gêneros e plataformas dominam as vendas?
-- Como as vendas se distribuem por região?
-- Qual a tendência das vendas ao longo do tempo?
+## 📌 Resumo dos Dados
+- Fonte: Base de dados com 6.454 registros;
+- Campos principais: Estado, mês, ano, número de focos de incêndio;
+- Não há valores únicos;
+- Tipos de dados: Numéricos e categóricos (anos, meses e estados).
 
 ## 🧰 Tecnologias e Bibliotecas
 
@@ -20,12 +25,26 @@ Identificar os padrões de mercado para o segmento de jogos e responder aos ques
 
 ## 📊 Análises Realizadas
 
-- Top 5 jogos, plataformas, gêneros e publicadoras com mais vendas
-- Distribuição de vendas por região (América do Norte, Europa, Japão e Outras Regiões)
-- Evolução de vendas ao longo dos anos
-
-## 🖼️ Relatório Final
+**Gráfico 1 - Evolução anual do número de incêndios**
 ![Foto do Gráfico 1](https://github.com/jefersoncarmoo/analise-incendios-florestais-brasil/blob/main/Gr%C3%A1ficos/An%C3%A1lise%20Inc%C3%AAndios%20Florestais%20-%20Gr%C3%A1fico%201.png?raw=true)
+
+Houve uma grande variação ao longos dos anos no número total de incêndios no país. Isso se deve a alguns fatores:
+- 
+
+Gráfico 2
+![Foto do Gráfico 2](https://github.com/jefersoncarmoo/analise-incendios-florestais-brasil/blob/main/Gr%C3%A1ficos/An%C3%A1lise%20Inc%C3%AAndios%20Florestais%20-%20Gr%C3%A1fico%202.png?raw=true)
+
+Gráfico 3
+![Foto do Gráfico 3](https://github.com/jefersoncarmoo/analise-incendios-florestais-brasil/blob/main/Gr%C3%A1ficos/An%C3%A1lise%20Inc%C3%AAndios%20Florestais%20-%20Gr%C3%A1fico%203.png?raw=true)
+
+Gráfico 4
+![Foto do Gráfico 4](https://raw.githubusercontent.com/jefersoncarmoo/analise-incendios-florestais-brasil/c2d2ea722f38d0dfbd1647f0a9a6a9fa95eb8703/Gr%C3%A1ficos/An%C3%A1lise%20Inc%C3%AAndios%20Florestais%20-%20Gr%C3%A1fico%204.png)
+
+Gráfico 5
+![Foto do Gráfico 5](https://github.com/jefersoncarmoo/analise-incendios-florestais-brasil/blob/main/Gr%C3%A1ficos/An%C3%A1lise%20Inc%C3%AAndios%20Florestais%20-%20Gr%C3%A1fico%205.png?raw=true)
+
+
+
 
 ## 📅 Fonte dos Dados
 [Google Collab Notebook - Análise Mercado de Games](https://colab.research.google.com/drive/1I8owWjblywW-w54TAn9us-6pa9vEl-3E?usp=sharing)
