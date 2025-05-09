@@ -27,20 +27,20 @@ Através das análises, identificar algumas questões:
 ## 📊 Análises Realizadas
 
 ### **Gráfico 1 - Evolução anual do número de incêndios**
-![Foto do Gráfico 1](https://github.com/jefersoncarmoo/analise-incendios-florestais-brasil/blob/main/Gr%C3%A1ficos/An%C3%A1lise%20Inc%C3%AAndios%20Florestais%20-%20Gr%C3%A1fico%201.png?raw=true)
+![Foto do Gráfico 1](https://i.imgur.com/JXA0DRp.png)
 
 ### **Gráfico 2 - Visualização Mensal**
-![Foto do Gráfico 2](https://github.com/jefersoncarmoo/analise-incendios-florestais-brasil/blob/main/Gr%C3%A1ficos/An%C3%A1lise%20Inc%C3%AAndios%20Florestais%20-%20Gr%C3%A1fico%202.png?raw=true)
+![Foto do Gráfico 2](https://i.imgur.com/7qaNfN1.png)
 
 ### **Gráfico 3 - Estados com mais ocorrências**
-![Foto do Gráfico 3](https://github.com/jefersoncarmoo/analise-incendios-florestais-brasil/blob/main/Gr%C3%A1ficos/An%C3%A1lise%20Inc%C3%AAndios%20Florestais%20-%20Gr%C3%A1fico%203.png?raw=true)
+![Foto do Gráfico 3](https://i.imgur.com/yx9tqSe.png)
 
 ### **Gráfico 4 - Top 10 Estados com mais incêndios ao longo dos anos**
-![Foto do Gráfico 4](https://raw.githubusercontent.com/jefersoncarmoo/analise-incendios-florestais-brasil/c2d2ea722f38d0dfbd1647f0a9a6a9fa95eb8703/Gr%C3%A1ficos/An%C3%A1lise%20Inc%C3%AAndios%20Florestais%20-%20Gr%C3%A1fico%204.png)
+![Foto do Gráfico 4](https://i.imgur.com/oQKt6Fh.png)
 
 ### **Gráfico 5 - Localização dos Incêndios Florestais**
 
-![Foto do Gráfico 5](https://github.com/jefersoncarmoo/analise-incendios-florestais-brasil/blob/main/Gr%C3%A1ficos/An%C3%A1lise%20Inc%C3%AAndios%20Florestais%20-%20Gr%C3%A1fico%205.png?raw=true)
+![Foto do Gráfico 5](https://i.imgur.com/9ZRyE6h.png)
 
 ## ✅ Conclusões
 Os dados demonstram que os incêndios florestais no Brasil seguem um padrão sazonal claro, intensificando-se nos meses mais secos (Agosto a outubro). Verificou-se aumento significativo no número de queimadas no começo dos anos 2000, alguns fatores como desmatamento para expansão agrícola/agropecuária e seca favoreceram esse cenário ([Fonte](https://agenciabrasil.ebc.com.br/geral/noticia/2024-06/quase-1-4-do-territorio-brasileiro-pegou-fogo-nos-ultimos-40-anos#:~:text=Tend%C3%AAncia,e%20tamb%C3%A9m%20a%20%C3%A1rea%20queimada.%E2%80%9D))
