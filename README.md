@@ -1,4 +1,4 @@
-# 🔥 Análise Incêndios Florestais no Brasil
+# 🔥 Análise Incêndios Florestais no Brasil (1998-2017)
 
 Este projeto foi  elaborado com foco em estudo e apresenta análise exploratória e visual dos dados sobre incêndios florestais no Brasil entre os anos de 1998 e 2017, utilizando Python e susas bibliotecas de manipulação e visualização de dados.
 
@@ -11,6 +11,7 @@ Através das análises, identificar algumas questões:
 - Estados com mais casos de queimadas;
 
 ## 📌 Resumo dos Dados
+
 - Fonte: Base de dados com 6.454 registros;
 - Campos principais: Estado, mês, ano, número de focos de incêndio;
 - Não há valores únicos;
@@ -25,29 +26,27 @@ Através das análises, identificar algumas questões:
 
 ## 📊 Análises Realizadas
 
-**Gráfico 1 - Evolução anual do número de incêndios**
+### **Gráfico 1 - Evolução anual do número de incêndios**
 ![Foto do Gráfico 1](https://github.com/jefersoncarmoo/analise-incendios-florestais-brasil/blob/main/Gr%C3%A1ficos/An%C3%A1lise%20Inc%C3%AAndios%20Florestais%20-%20Gr%C3%A1fico%201.png?raw=true)
 
-Houve uma grande variação ao longos dos anos no número total de incêndios no país. Isso se deve a alguns fatores:
-- 
-
-Gráfico 2
+### **Gráfico 2 - Visualização Mensal**
 ![Foto do Gráfico 2](https://github.com/jefersoncarmoo/analise-incendios-florestais-brasil/blob/main/Gr%C3%A1ficos/An%C3%A1lise%20Inc%C3%AAndios%20Florestais%20-%20Gr%C3%A1fico%202.png?raw=true)
 
-Gráfico 3
+### **Gráfico 3 - Estados com mais ocorrências**
 ![Foto do Gráfico 3](https://github.com/jefersoncarmoo/analise-incendios-florestais-brasil/blob/main/Gr%C3%A1ficos/An%C3%A1lise%20Inc%C3%AAndios%20Florestais%20-%20Gr%C3%A1fico%203.png?raw=true)
 
-Gráfico 4
+### **Gráfico 4 - Top 10 Estados com mais incêndios ao longo dos anos**
 ![Foto do Gráfico 4](https://raw.githubusercontent.com/jefersoncarmoo/analise-incendios-florestais-brasil/c2d2ea722f38d0dfbd1647f0a9a6a9fa95eb8703/Gr%C3%A1ficos/An%C3%A1lise%20Inc%C3%AAndios%20Florestais%20-%20Gr%C3%A1fico%204.png)
 
-Gráfico 5
+### **Gráfico 5 - Localização dos Incêndios Florestais**
+
 ![Foto do Gráfico 5](https://github.com/jefersoncarmoo/analise-incendios-florestais-brasil/blob/main/Gr%C3%A1ficos/An%C3%A1lise%20Inc%C3%AAndios%20Florestais%20-%20Gr%C3%A1fico%205.png?raw=true)
 
-
-
+## ✅ Conclusões
+Os dados demonstram que os incêndios florestais no Brasil seguem um padrão sazonal claro, intensificando-se nos meses mais secos (Agosto a outubro). Também indicam que determinadas regiões, como a Amazônia e o Centro-Oeste, concentram a maior parte das ocorrências. Essa análise pode ser útil para políticas públicas de prevenção e combate aos incêndios, especialmente se combinada com dados climáticos.
 
 ## 📅 Fonte dos Dados
-[Google Collab Notebook - Análise Mercado de Games](https://colab.research.google.com/drive/1I8owWjblywW-w54TAn9us-6pa9vEl-3E?usp=sharing)
+[Google Collab Notebook - Análise Incêndios Florestais](https://colab.research.google.com/drive/1I8owWjblywW-w54TAn9us-6pa9vEl-3E?usp=sharing)
 
 [Database Incêndios Florestais](https://github.com/jefersoncarmoo/analise-incendios-florestais-brasil/blob/main/Dados_Indendio.csv)
 
