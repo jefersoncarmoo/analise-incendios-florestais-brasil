@@ -43,12 +43,15 @@ Através das análises, identificar algumas questões:
 ![Foto do Gráfico 5](https://github.com/jefersoncarmoo/analise-incendios-florestais-brasil/blob/main/Gr%C3%A1ficos/An%C3%A1lise%20Inc%C3%AAndios%20Florestais%20-%20Gr%C3%A1fico%205.png?raw=true)
 
 ## ✅ Conclusões
-Os dados demonstram que os incêndios florestais no Brasil seguem um padrão sazonal claro, intensificando-se nos meses mais secos (Agosto a outubro). Também indicam que determinadas regiões, como a Amazônia e o Centro-Oeste, concentram a maior parte das ocorrências. Essa análise pode ser útil para políticas públicas de prevenção e combate aos incêndios, especialmente se combinada com dados climáticos.
+Os dados demonstram que os incêndios florestais no Brasil seguem um padrão sazonal claro, intensificando-se nos meses mais secos (Agosto a outubro). Verificou-se aumento significativo no número de queimadas no começo dos anos 2000, alguns fatores como desmatamento para expansão agrícola/agropecuária e seca favoreceram esse cenário ([Fonte](https://agenciabrasil.ebc.com.br/geral/noticia/2024-06/quase-1-4-do-territorio-brasileiro-pegou-fogo-nos-ultimos-40-anos#:~:text=Tend%C3%AAncia,e%20tamb%C3%A9m%20a%20%C3%A1rea%20queimada.%E2%80%9D))
+
+
+Essa análise pode ser útil para políticas públicas de prevenção e combate aos incêndios, especialmente se combinada com dados climáticos e também de preservação ambiental.
 
 ## 📅 Fonte dos Dados
 [Google Collab Notebook - Análise Incêndios Florestais](https://colab.research.google.com/drive/1I8owWjblywW-w54TAn9us-6pa9vEl-3E?usp=sharing)
 
-[Database Incêndios Florestais](https://github.com/jefersoncarmoo/analise-incendios-florestais-brasil/blob/main/Dados_Indendio.csv)
+[Database Incêndios Florestais](https://github.com/jefersoncarmoo/analise-incendios-florestais-brasil/blob/main/Dados_Incendio.csv)
 
 
 ## 🎓 Autor
