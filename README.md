@@ -53,6 +53,7 @@ Essa análise pode ser útil para políticas públicas de prevenção e combate 
 
 [Database Incêndios Florestais](https://github.com/jefersoncarmoo/analise-incendios-florestais-brasil/blob/main/Dados_Incendio.csv)
 
+Fornecida no Curso de Python do canal [DataV](https://www.youtube.com/watch?v=QRA0IoWoL1E&list=PLLWTDkRZXQa9YyC1LMbuDTz3XVC4E9ZQA&index=83&t=12s&ab_channel=DataV)
 
 ## 🎓 Autor
 
